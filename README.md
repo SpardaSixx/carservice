@@ -16,4 +16,6 @@ Az .scss fájl a 'resources/sass/app.scss' útvonalon érhető el.
 
 Esetleges telepítések: 'composer install', 'npm install', 'npm install -g sass'
 
+Az eredeti JSON fájlok a 'public/json' mappában vannak.
+
 Remélem, nem felejtettem ki semmit!
