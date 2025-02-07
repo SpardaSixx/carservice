@@ -1,0 +1,74 @@
+body {
+  background-color: #eee;
+  color: #333;
+  font-family: "Titillium Web", sans-serif;
+}
+body header {
+  background-color: #333;
+  color: #eee;
+}
+body header a {
+  color: #eee;
+  text-decoration: none;
+}
+body header a:hover {
+  color: #ff5733;
+}
+body .search {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+}
+body .search input {
+  border: 0;
+}
+body .search .btn-custom {
+  background-color: #333;
+  color: #eee;
+  border: 0;
+  position: relative;
+  bottom: 2px;
+}
+body .search .btn-custom:hover {
+  background-color: #111;
+}
+body .clients .list-header {
+  font-weight: bold;
+  border-bottom: 2px solid #333;
+  background-color: #ccc;
+}
+body .clients .accordion .accordion-item .accordion-header .accordion-button {
+  display: block;
+  background-color: #eee !important;
+  color: #333 !important;
+}
+body .clients .accordion .accordion-item .accordion-header .accordion-button::after {
+  display: none;
+}
+body .clients .accordion .accordion-item .accordion-body .style-pointer {
+  cursor: pointer;
+}
+body .clients .material-symbols-outlined {
+  font-size: 2rem;
+  position: relative;
+  top: 10px;
+  color: #333;
+}
+body footer {
+  background-color: #333;
+  color: #eee;
+}
+body footer a {
+  color: #eee;
+  text-decoration: none;
+}
+body footer a:hover {
+  color: #ff5733;
+}
+body .modal-dialog {
+  max-width: 1000px;
+}
+body .modal-dialog .modal-header {
+  border-bottom: 0;
+}
+
+/*# sourceMappingURL=app.css.map */
